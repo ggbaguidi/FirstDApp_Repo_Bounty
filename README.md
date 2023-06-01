@@ -22,7 +22,7 @@ The contract includes several data structures, including `Quest` and `Campaign`,
 
 ## Usage
 
-1. Deploy the `StackUpDApp` contract on a compatible Ethereum Virtual Machine (EVM) using Solidity version 0.8.0 or later.
+1. Deploy the `StackUpDApp` contract on a compatible Ethereum Virtual Machine (EVM) using Solidity version 0.7.0 or later.
 2. Set the `admin` address to the desired admin address.
 3. Interact with the contract by calling the available functions:
    - Users can submit quests using the `submitQuest` function, providing the quest title, description, start time, and end time.
